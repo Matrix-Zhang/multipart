@@ -16,12 +16,12 @@ documentation = "http://abonander.github.io/multipart/doc/multipart/index.html"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
-env_logger = "0.3"
-log = "0.3"
-mime = "0.2"
-mime_guess = "1.6"
-rand = "0.3"
-tempdir = "0.3"
+env_logger = "0.3.4"
+log = "0.3.6"
+mime = "0.2.2"
+mime_guess = "1.8.0"
+rand = "0.3.14"
+tempdir = "0.3.5"
 
 [dependencies.buf_redux]
 optional = true
@@ -33,7 +33,7 @@ version = "0.8"
 
 [dependencies.iron]
 optional = true
-version = "0.3"
+version = "0.4"
 
 [dependencies.memchr]
 optional = true
